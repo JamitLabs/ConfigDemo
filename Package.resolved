@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CLISpinner",
+        "repositoryURL": "https://github.com/kiliankoe/CLISpinner.git",
+        "state": {
+          "branch": null,
+          "revision": "93ca0c508e2bfcfc65ef068f667b3f20c327158c",
+          "version": "0.3.6"
+        }
+      },
+      {
+        "package": "HandySwift",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwift.git",
+        "state": {
+          "branch": null,
+          "revision": "44c4866a2826abaaa991c34efb076c6f09c69b4b",
+          "version": "2.6.2"
+        }
+      },
+      {
+        "package": "Rainbow",
+        "repositoryURL": "https://github.com/onevcat/Rainbow.git",
+        "state": {
+          "branch": null,
+          "revision": "797a68d0a642609424b08f11eb56974a54d5f6e2",
+          "version": "3.1.4"
+        }
+      },
+      {
+        "package": "SwiftCLI",
+        "repositoryURL": "https://github.com/jakeheis/SwiftCLI",
+        "state": {
+          "branch": null,
+          "revision": "37f4a7f863f6fe76ce44fc0023f331eea0089beb",
+          "version": "5.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
